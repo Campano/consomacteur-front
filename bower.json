@@ -1,0 +1,24 @@
+{
+  "name": "consomacteur-front",
+  "authors": [
+    "scampano <scampano@simplicite.fr>"
+  ],
+  "description": "ux consomacteur",
+  "main": "index.html",
+  "moduleType": [],
+  "keywords": [
+    "consomacteur"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^3.3.6"
+  }
+}
